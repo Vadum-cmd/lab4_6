@@ -1,6 +1,7 @@
 PURPOSE
 The purpose of a project is to help user organize their notes.
 EXAMPLE OF USAGE
+```
 Notebook Menu
 1. Show all Notes
 2. Search Notes
@@ -74,3 +75,4 @@ Notebook Menu
 
 Enter an option: 5
 Thank you for using your notebook today.
+```
